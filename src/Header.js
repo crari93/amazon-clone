@@ -7,6 +7,7 @@ export default function Header() {
   return (
     <div className="header">
       <img
+        alt="LogoAmazon"
         className="header__logo"
         src="http://pngimg.com/uploads/amazon/amazon_PNG11.png"
       />
@@ -18,7 +19,7 @@ export default function Header() {
 
       <div className="header__nav">
         <div className="header__option">
-          <span className="header__optionLineOne">Hello Ariel</span>
+          <span className="header__optionLineOne">Hello Guest</span>
           <span className="header__optionLineTwo">Sign In</span>
         </div>
 
