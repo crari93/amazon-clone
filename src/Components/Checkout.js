@@ -1,5 +1,5 @@
 import React from "react";
-import "./Checkout.css";
+import "../Styles/Checkout.css";
 import SubTotal from "./SubTotal";
 
 export default function Checkout() {
