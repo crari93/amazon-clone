@@ -42,10 +42,15 @@
     "type": "git",
     "url": "git+https://github.com/crari93/amazon-clone.git"
   },
-  "author": "",
+  "author": "Ariel",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/crari93/amazon-clone/issues"
   },
-  "homepage": "https://github.com/crari93/amazon-clone#readme"
+  "homepage": "https://github.com/crari93/amazon-clone#readme",
+  "devDependencies": {},
+  "keywords": [
+    "Amazon",
+    "Clone"
+  ]
 }
