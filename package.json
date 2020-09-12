@@ -37,6 +37,7 @@
     ]
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
@@ -62,6 +63,9 @@
 =======
   "homepage": "https://github.com/crari93/amazon-clone#readme"
 >>>>>>> parent of cac2085... Update package.json
+=======
+  }
+>>>>>>> parent of 761c533... Update package.json
 =======
   }
 >>>>>>> parent of 761c533... Update package.json
