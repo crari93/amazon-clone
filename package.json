@@ -43,11 +43,12 @@
     "type": "git",
     "url": "git+https://github.com/crari93/amazon-clone.git"
   },
-  "author": "Ariel",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/crari93/amazon-clone/issues"
   },
+<<<<<<< HEAD
   "homepage": "https://github.com/crari93/amazon-clone#readme",
   "devDependencies": {},
   "keywords": [
@@ -57,4 +58,7 @@
 =======
   }
 >>>>>>> parent of 761c533... Update package.json
+=======
+  "homepage": "https://github.com/crari93/amazon-clone#readme"
+>>>>>>> parent of cac2085... Update package.json
 }
