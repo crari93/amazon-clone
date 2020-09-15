@@ -33,7 +33,8 @@ export default function Header() {
         <Link to={!user && "/login"}>
           <div onClick={handleAuthentication} className="header__option">
             <span className="header__optionLineOne">
-              {user ? <p>Hello {user.email}</p> : <p>Hellos Guest</p>}
+              Hello
+              {!user ? " Guest" : user.email}
             </span>
             <span className="header__optionLineTwo">
               {user ? "Sign Out" : "Sign In"}
