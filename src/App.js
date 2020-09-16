@@ -4,8 +4,9 @@ import Header from "./Components/Header";
 import Home from "./Components/Home";
 import Checkout from "./Components/Checkout";
 import Payment from "./Components/Payment";
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import Orders from "./Components/Orders";
 import Login from "./Components/Login";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import { auth } from "./firebase";
 import { useStateValue } from "./StateProvider";
 import { loadStripe } from "@stripe/stripe-js";
@@ -50,6 +51,10 @@ function App() {
             <Elements stripe={promise}>
               <Payment />
             </Elements>
+          </Route>
+          <Route path="/orders">
+            <Header />
+            <Orders />
           </Route>
           <Route path="/">
             <Header />
