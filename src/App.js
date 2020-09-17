@@ -13,9 +13,7 @@ import { loadStripe } from "@stripe/stripe-js";
 import { Elements } from "@stripe/react-stripe-js";
 import Footer from "./Components/Footer";
 
-const promise = loadStripe(
-  "pk_test_51HRh18FnE4quh0RjEEbjgEd2KzCuYexGgym42mSeZNiYTXwRreItDl2d7y1uB1pxGNaTfocXfipbHQ97UnzInuFm00938uikWJ"
-); //public stripe key
+const promise = loadStripe("public key"); //public stripe key
 
 function App() {
   const [{}, dispatch] = useStateValue();
