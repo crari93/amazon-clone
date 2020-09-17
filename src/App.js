@@ -11,6 +11,7 @@ import { auth } from "./firebase";
 import { useStateValue } from "./StateProvider";
 import { loadStripe } from "@stripe/stripe-js";
 import { Elements } from "@stripe/react-stripe-js";
+import Footer from "./Components/Footer";
 
 const promise = loadStripe(
   "pk_test_51HRh18FnE4quh0RjEEbjgEd2KzCuYexGgym42mSeZNiYTXwRreItDl2d7y1uB1pxGNaTfocXfipbHQ97UnzInuFm00938uikWJ"
@@ -61,6 +62,7 @@ function App() {
             <Home />
           </Route>
         </Switch>
+        <Footer />
       </div>
     </Router>
   );
