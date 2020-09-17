@@ -46,7 +46,7 @@ When trying to do a purchase, use the next billing information:
 
 All the purchase history will be saved in the Firebase database and can be tracked in the "Returns & Orders" page.
 
-The purchase history will be account-based.
+The purchase history is account-based.
 
 ## Credits
 
