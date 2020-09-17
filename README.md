@@ -28,18 +28,24 @@ You can enter this link: <a target="_blank" href='https://challenge-90b13.web.ap
 
 You can create your own account or use the next one:
 
--Email: emailtest@amazonfake.com
--Password AmazonFake2020
+<ul>
+    <li>Email: emailtest@amazonfake.com</li>
+    <li>Password AmazonFake2020</li>
+</ul>
 
 When trying to do a purchase, use the next billing information:
--Card: 4242 4242 4242 4242
--MM/AA: 04/24
--CVC:242
--CP: 42424
 
-<strong>Don't use your real card.</strong>
+<ul>
+    <li>Card: 4242 4242 4242 4242</li>
+    <li>MM/AA: 04/24</li>
+    <li>CVC:242</li>
+    <li>CP: 42424</li>
+</ul>
+
+<strong>Do NOT use your real card.</strong>
 
 All the purchase history will be saved in the Firebase database and can be tracked in the "Returns & Orders" page.
+
 The purchase history will be account-based.
 
 ## Credits
