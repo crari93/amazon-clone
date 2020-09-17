@@ -38,7 +38,7 @@ When trying to do a purchase, use the next billing information:
 <ul>
     <li>Card: 4242 4242 4242 4242</li>
     <li>MM/AA: 04/24</li>
-    <li>CVC:242</li>
+    <li>CVC: 242</li>
     <li>CP: 42424</li>
 </ul>
 
