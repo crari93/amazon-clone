@@ -30,7 +30,7 @@ You can create your own account or use the next one:
 
 <ul>
     <li>Email: emailtest@amazonfake.com</li>
-    <li>Password AmazonFake2020</li>
+    <li>Password: AmazonFake2020</li>
 </ul>
 
 When trying to do a purchase, use the next billing information:
