@@ -14,7 +14,7 @@ This React app is an E-Commerce clone from Amazon with an account authentication
 
 ## Project Info
 
-This App was developed usin ReactJS in Visual Studio Code with:
+This App was developed using ReactJS in Visual Studio Code with:
 
 <ul>
     <li><a target="_blank" href='https://material-ui.com/'>Material UI</a></li>
